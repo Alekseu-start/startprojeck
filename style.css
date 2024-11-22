@@ -1,0 +1,264 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}  
+
+
+a {
+    color: black;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    margin-right: 100px;
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.menu li{
+    margin-left: 50px;
+}
+
+.menu li a{
+    text-decoration: none;
+}
+
+.oop {
+    width: 243px;
+    height: 243px;
+    float: right;
+    margin-right: 200px;
+    position: absolute;
+    right: 0px;
+    top: -20px;
+    border-radius: 125px;
+}
+
+.creativ {
+    justify-content: flex-start;
+    position: relative;
+    top: 120px;
+    margin-bottom: 100px;
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.but {
+    width: 320px;
+    height: 105px;
+}
+ 
+.textb{
+    width: 470px;
+    height: 66px;
+    margin-left: 150px;
+}
+
+h1 {
+    margin-left: 150px;
+}
+
+.cnopca {
+    margin-top: 30px;
+    margin-left: 150px;
+    background: rgb(255,100,100);
+    width: 208px;
+    height: 47px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 100px;
+}
+
+.recent {
+    position: relative;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: auto;
+    height: 400px;
+    background: rgb(237,247,250);
+    font-family: "Heebo", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+    
+.making {
+    border-radius: 3px;
+    width: 500px;
+    height: 300px;
+    background: white;
+    
+}
+
+.piksel {
+    border-radius: 3px;
+    width: 500px;
+    height: 300px;
+    background: white;
+}
+
+.cubu {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hopy, h3{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 40px;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.making, p{
+    margin-left: 40px;
+}
+
+.piksel p{
+    margin-left: 40px;
+}
+
+.making_heder {
+    font-size: 26px;
+    text-align: start;
+    width: 347px;
+    height: 85px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.piksei_heder {
+    font-size: 26px;
+    text-align: start;
+    width: 347px;
+    height: 85px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.paragraf_boton {
+    margin-top: 30px;
+}
+
+.para_boton {
+    margin-top: 30px;
+}
+
+.ssulka {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(0,168,204);
+    margin-right: 40px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.liva {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.vidioprezent {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    font-family: "Heebo", sans-serif;
+    margin-top: 30px;
+}
+
+.stroca {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.foto {
+    width: 246px;
+    height: 180px;
+}
+
+.img_botom2 {
+    width: 600px;
+    height: 200px;
+}
+
+.sapca {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.god2020 {
+    display: flex;
+    justify-content: center;
+    width: 62px;
+    height: 25px;
+    border-radius: 10px;
+    background: #000000;
+    color: white;
+}
+
+.dashboard {
+    color: rgb(134,149,164);
+}
+
+.liva2 {
+    font-family: "Heebo", sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    margin-left: 255px;
+    margin-top: 40px;
+}
+
+hr {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 30px;
+}
+
+.ametau {
+    font-family: "Heebo", sans-serif;
+    width: 507px;
+    height: 93px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer img{
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.footer2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
